@@ -275,7 +275,7 @@ const Hero = () => {
             
             <div className="relative w-48 h-48 md:w-64 md:h-64 lg:w-72 lg:h-72 rounded-full overflow-hidden shadow-[0_0_60px_rgba(236,127,19,0.4)] bg-gradient-to-br from-primary/30 via-background-dark to-primary/10 flex items-center justify-center border-4 border-white/10 backdrop-blur-md">
               <img 
-                src="/p.png" 
+                src="/p.jpg" 
                 alt="Professional Portrait"
                 className="w-full h-full object-cover opacity-90 group-hover:scale-110 transition-transform duration-700"
                 referrerPolicy="no-referrer"
